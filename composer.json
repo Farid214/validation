@@ -1,0 +1,9 @@
+{
+    "name": "farid21/validation",
+    "autoload": {
+        "psr-4": {
+            "Farid21\\Validation\\": "src/"
+        }
+    },
+    "require": {}
+}
